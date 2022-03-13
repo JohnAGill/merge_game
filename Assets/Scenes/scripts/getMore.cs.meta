@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b5f362ca952be464792450a3b2864246
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wood: {fileID: 1797550410569595272, guid: 502e759b6ff083b4ea7fe3ce462116a5, type: 3}
+  - coal: {fileID: 8198484614316392067, guid: 60a2896ee340b1b4383fa4d3e3071c87, type: 3}
+  - bait: {fileID: 9020581246053731153, guid: 40071cf00a0b36f4eaa4d4acf04d7088, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
